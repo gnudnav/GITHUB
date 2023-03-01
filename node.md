@@ -2,7 +2,9 @@
 
 Repository(Repo)
 Branch
-Conglisct
+Conflict
+Local
+Remote
 # Commands
 
 -git init
@@ -18,4 +20,5 @@ Conglisct
 -git branch
 -git checkout -b 
 -git merge
-git branch -d
+-git branch -d
+-git bush
