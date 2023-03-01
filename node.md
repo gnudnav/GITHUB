@@ -22,3 +22,5 @@ Remote
 -git merge
 -git branch -d
 -git bush
+-git fetch origin 
+-git checkout -b staging origin/staging
