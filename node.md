@@ -15,4 +15,6 @@ Branch
 -git checkout :de quay ve luc dau
 -git checkout :master quay ve du an
 -git branch
-git checkout -b 
+-git checkout -b 
+-git merge
+git branch -d
