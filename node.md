@@ -1,7 +1,7 @@
 # Terms
 
 Repository(Repo)
-
+Branch
 # Commands
 
 -git init
@@ -12,4 +12,7 @@ Repository(Repo)
 -git commit
 -git log
 -git log--oneline
--git checkout 
+-git checkout :de quay ve luc dau
+-git checkout :master quay ve du an
+-git branch
+git checkout -b 
